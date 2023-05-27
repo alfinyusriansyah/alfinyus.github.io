@@ -1,2 +1,2 @@
-# alfinyus.github.io
+# Personal Website
 Personal Website using HTML,CSS &amp; Javascript
